@@ -181,3 +181,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+---
+
+## Credits
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
+
+This repository is a mirror of the open-source CompactCalendarView Android library, maintained as part of Girish Lade's public archive of useful open-source projects and libraries.
